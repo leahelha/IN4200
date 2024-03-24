@@ -1,0 +1,6 @@
+To compile the code, use the following command:
+   ....
+
+
+To run the code, use the following command:
+   ....
